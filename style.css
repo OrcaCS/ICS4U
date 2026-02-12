@@ -1,0 +1,26 @@
+a {
+  font-weight: 500;
+  color: #4bff5a;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #7eff8fb7;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: rgb(8, 228, 0);
+  background-color: #161616;
+
+  margin: 30px;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
