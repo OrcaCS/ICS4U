@@ -25,6 +25,6 @@ h1 {
   line-height: 1.1;
 }
 
-.p-inline {
-  display: inline;
+#u {
+  text-decoration: underline;
 }
